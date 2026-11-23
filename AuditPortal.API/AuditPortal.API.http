@@ -1,0 +1,6 @@
+@AuditPortal.API_HostAddress = http://localhost:5219
+
+GET {{AuditPortal.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
