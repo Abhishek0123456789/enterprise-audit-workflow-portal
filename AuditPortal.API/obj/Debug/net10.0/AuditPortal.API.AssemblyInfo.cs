@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AuditPortal.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9f78a00bbd8127afb1a2ddb60eab6c12ec7f917a")]
 [assembly: System.Reflection.AssemblyProductAttribute("AuditPortal.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AuditPortal.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

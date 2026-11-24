@@ -129,3 +129,5 @@ D:\Project\AuditWorkflowPortal\AuditPortal.API\obj\Debug\net10.0\refint\AuditPor
 D:\Project\AuditWorkflowPortal\AuditPortal.API\obj\Debug\net10.0\AuditPortal.API.pdb
 D:\Project\AuditWorkflowPortal\AuditPortal.API\obj\Debug\net10.0\AuditPortal.API.genruntimeconfig.cache
 D:\Project\AuditWorkflowPortal\AuditPortal.API\obj\Debug\net10.0\ref\AuditPortal.API.dll
+D:\Project\AuditWorkflowPortal\AuditPortal.API\bin\Debug\net10.0\AuditPortal.API.staticwebassets.runtime.json
+D:\Project\AuditWorkflowPortal\AuditPortal.API\obj\Debug\net10.0\AuditPortal.API.sourcelink.json
